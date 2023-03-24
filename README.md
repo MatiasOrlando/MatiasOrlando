@@ -25,7 +25,7 @@
 
 - 🤔 I'm currently looking for a job to level-up my hard and soft skills.
 
-- 💬 Ask me about Javascript, React, Node, PostgreSQL, Callstack, Event Loop, Promises.
+- 💬 Ask me about Javascript, React, Node, Express, PostgreSQL, Callstack, Event Loop, Promises.
 
 - 📫 How to reach me: matiassorlando@gmail.com.
 
@@ -35,4 +35,6 @@
 
 
 #### Connect with me: 
+<a href="https://www.linkedin.com/in/orlando-matias/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+
 
