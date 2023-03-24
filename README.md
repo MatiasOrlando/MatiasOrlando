@@ -1,22 +1,16 @@
-<style type="text/css">
-    .center {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        flex-direction: column;
-    }
-</style>
-
-
-<div class="center"> 
+<div align="center"> 
 
 ## Hello World! 👋 I'm Matias 🧑‍💻
 
 </div>
 
-<br>
 
-### Full Stack Developer from Argentina based in Amsterdam 🇦🇷 
+
+<div align="center">
+
+### Full Stack Developer from Argentina based in Amsterdam 🇦🇷 🇳🇱
+
+</div>
 
 
 <br>
@@ -40,5 +34,5 @@
 
 
 
-### Connect with me: 
+#### Connect with me: 
 
