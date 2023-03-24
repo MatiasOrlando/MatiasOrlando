@@ -17,9 +17,9 @@
 
 
 
-- 🔭 I’m currently working on an online appointment booking app.
+- 🔭 I’m currently working on an online appointments booking app.
 
-- 🌱 I’m currently finishing a full stack developer bootcamp at Plataforma5.
+- 🌱 I’m currently learning Typescript and Next JS.
 
 - 🕵 I’m looking to collaborate on new projects that have a real impact on people's lives.
 
