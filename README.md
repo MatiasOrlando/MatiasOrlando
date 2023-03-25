@@ -39,7 +39,7 @@
 <div> 
 
 ### Front-end  💻
-<div style="padding:15px"> 
+<div style="padding:25px"> 
 <img src="https://user-images.githubusercontent.com/94872647/227661380-d006501a-6542-4ace-b960-af73447782c9.png" style="height:40px;width:40px"/> 
 <img src="https://user-images.githubusercontent.com/94872647/227661750-38140331-323f-463f-aa24-58a3288db850.png" style="height:40px;width:40px" />
 <img src="https://user-images.githubusercontent.com/94872647/227662273-687c6085-4e08-4839-a51d-255bf5e68d2d.png" style="height:40px;width:40px" />
@@ -53,7 +53,7 @@
 
 
 ### Back-end  💻
-<div style="padding:15px"> 
+<div style="padding:25px"> 
 <img src="https://user-images.githubusercontent.com/94872647/227662838-6919336c-578b-42e9-bdad-cd70cb16b5f2.png" style="height:40px;width:40px" />
 <img src="https://camo.githubusercontent.com/764431beccf3683ff56719cfe3a0902008c7b6d6ed93926b6fccb38b81eddab4/68747470733a2f2f6173736574732e776562736974652d66696c65732e636f6d2f3631636133663737356137396563356638376663663933372f3632303266636465653565653836333661313435613431625f313233342e706e67" style="height:40px;width:40px" />
 <img src="https://user-images.githubusercontent.com/94872647/227740036-7f892401-2c8c-470f-b097-f05402428909.png" style="height:40px;width:40px" />
@@ -62,7 +62,7 @@
 <img src="https://user-images.githubusercontent.com/94872647/227740282-331ce102-7c82-4a1a-9c71-84f8701ce863.png" style="height:40px;width:40px" />
 </div>
 
-<div style="padding:15px"> 
+<div style="padding:25px"> 
 
 
 ### Tools 🛠️
