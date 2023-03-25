@@ -35,7 +35,7 @@
 
 
 ### Connect with me: 
-<a href="https://www.linkedin.com/in/orlando-matias/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" style="heigh:600px;width:60px"/></a>
+<a href="https://www.linkedin.com/in/orlando-matias/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" style="heigh:60px;width:60px"/></a>
 
 ### Languages & Tools:
 <div> 
