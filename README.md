@@ -55,7 +55,7 @@
 ### Back-end  💻
 <div style="padding:25px"> 
 <img src="https://user-images.githubusercontent.com/94872647/227662838-6919336c-578b-42e9-bdad-cd70cb16b5f2.png" style="height:40px;width:40px" />
-<img src="https://user-images.githubusercontent.com/94872647/227771295-8a1211b0-c6d9-4dcc-9431-0b9f3feaea8a.png" style="max-height:40px;width:46px" />
+<img src="https://user-images.githubusercontent.com/94872647/227771468-b84ffce0-c776-4b02-a7f7-bc5eb5bc6f8e.png" style="max-height:40px;width:40px" />
 <img src="https://user-images.githubusercontent.com/94872647/227740036-7f892401-2c8c-470f-b097-f05402428909.png" style="height:40px;width:40px" />
 <img src="https://user-images.githubusercontent.com/94872647/227740824-f2319bb2-6055-4c31-b543-2d498ed982c1.png" style="height:40px;width:40px" />
 <img src="https://user-images.githubusercontent.com/94872647/227740130-e2b772f1-f1af-47b8-86eb-de3bf9cb8128.png" style="height:40px;width:40px" />
