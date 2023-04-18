@@ -46,7 +46,7 @@
   &nbsp;
 <img src="https://user-images.githubusercontent.com/94872647/227662273-687c6085-4e08-4839-a51d-255bf5e68d2d.png" style="height:40px;width:40px" />
   &nbsp;
-  <img src=" https://res.cloudinary.com/jacklyons123/image/upload/f_auto,q_auto/v1619950951/jacklyons.me/next-js-logo.jpg" style="height:40px;width:40px" />
+  <img src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo-thumbnail.png" style="height:40px;width:40px" />
   &nbsp;
  
 <img src="https://user-images.githubusercontent.com/94872647/227739570-bdd55092-6478-4a90-912e-63e46874c693.png" style="height:40px;width:40px" />
