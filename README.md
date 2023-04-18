@@ -82,10 +82,10 @@
 <br>
 
 <a href="https://github.com/MatiasOrlando" style="margin-right:385px">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MatiasOrlando&hide=contribs&show_icons=true&count_private=true&theme=radical"  style="width:400px;height:165px"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MatiasOrlando&hide=contribs&show_icons=true&count_private=true&theme=radical"  style="width:400px;height:160px"/>
 </a>
 <a href="https://github.com/MatiasOrlando">
-  <img  align="right"  style="width:400px;height:165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasOrlando&layout=compact" />
+  <img  align="right"  style="width:400px;height:160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasOrlando&layout=compact" />
 </a>
 
 
