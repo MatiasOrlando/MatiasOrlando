@@ -93,7 +93,7 @@
    &nbsp;
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_swagger_icon_130134.png" style="height:40px;width:40px" />
    &nbsp;
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" style="height:40px;width:35px" />
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" style="height:35px;width:35px" />
 </div>
 
 </div>
