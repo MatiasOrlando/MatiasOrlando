@@ -113,10 +113,10 @@
 </a>
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="[https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MatiasOrlando&hide=contribs&show_icons=true&count_private=true&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/anuraghazra/convoychat](https://github.com/MatiasOrlando">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasOrlando&layout=compact" />
 </a>
 
