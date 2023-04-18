@@ -85,7 +85,7 @@
 </a>
 
 <a href="https://github.com/MatiasOrlando">
-  <img  align="center" style="height:230px;width:365px;margin-left:40px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasOrlando&layout=compact" />
+  <img  align="center" style="height:230px;width:365px;margin:40px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasOrlando&layout=compact" />
 </a>
 
 
