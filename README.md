@@ -48,7 +48,6 @@
   &nbsp;
   <img src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" style="height:40px;width:45px" />
   &nbsp;
- 
 <img src="https://user-images.githubusercontent.com/94872647/227739570-bdd55092-6478-4a90-912e-63e46874c693.png" style="height:40px;width:40px" />
   &nbsp;
 <img src="https://user-images.githubusercontent.com/94872647/227739604-800e4715-005f-4fea-a079-27f039f81ed4.png" style="height:40px;width:40px" />
