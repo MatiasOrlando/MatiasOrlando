@@ -38,7 +38,7 @@
 <a href="https://www.linkedin.com/in/orlando-matias/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" style="heigh:60px;width:60px"/></a>
 <div> 
 
-### Front-end  💻
+### Front-end &nbsp;  💻
 <div style="padding:25px"> 
 <img src="https://user-images.githubusercontent.com/94872647/227661380-d006501a-6542-4ace-b960-af73447782c9.png" style="height:40px;width:40px"/> 
   &nbsp;
@@ -61,7 +61,7 @@
 </div>
 
 
-### Back-end  💻
+### Back-end &nbsp;  💻
 <div style="padding:25px"> 
 <img src="https://user-images.githubusercontent.com/94872647/227662838-6919336c-578b-42e9-bdad-cd70cb16b5f2.png" style="height:40px;width:40px" />
   &nbsp;
@@ -80,7 +80,7 @@
 <div style="padding:25px"> 
 
 
-### Tools 🛠️
+### Tools &nbsp; 🛠️
 <img src="https://user-images.githubusercontent.com/94872647/227739710-8454480e-1dea-4e23-bf46-f4259906c8f3.png" style="height:40px;width:40px" />
   &nbsp;
 <img src="https://user-images.githubusercontent.com/94872647/227739739-fdc20972-d759-4b2f-aaf8-e640d3cac324.png" style="height:40px;width:40px" />
