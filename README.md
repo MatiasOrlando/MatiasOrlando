@@ -75,7 +75,7 @@
 
 </div>
 
-<hr style="border: none; border-bottom: 1px solid gray;">
+<hr style="border: none; border-bottom: 0.5px solid gray;">
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiasOrlando&hide=contribs&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
