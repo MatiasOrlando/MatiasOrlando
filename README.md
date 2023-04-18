@@ -46,7 +46,7 @@
   &nbsp;
 <img src="https://user-images.githubusercontent.com/94872647/227662273-687c6085-4e08-4839-a51d-255bf5e68d2d.png" style="height:40px;width:40px" />
   &nbsp;
-  <img src="https://nextjs.org/static/images/case-studies/hulu/next.js.svg" style="height:80px;width:80px" />
+  <img src="https://nextjs.org/static/images/case-studies/hulu/next.js.svg" />
   &nbsp;
  
 <img src="https://user-images.githubusercontent.com/94872647/227739570-bdd55092-6478-4a90-912e-63e46874c693.png" style="height:40px;width:40px" />
