@@ -84,7 +84,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatiasOrlando&hide=contribs&show_icons=true&count_private=true&theme=radical" />
 </a>
 <a href="https://github.com/MatiasOrlando">
-  <img  align="center" style="height:230px;width:340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasOrlando&layout=compact" />
+  <img  align="center" style="height:230px;width:440px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasOrlando&layout=compact" />
 </a>
 
 
