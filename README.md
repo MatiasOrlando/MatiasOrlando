@@ -91,18 +91,5 @@
 </a>
 
 
-<div style="display: flex; align-items: center;">
-  <div> 
-  <a href="https://github.com/MatiasOrlando">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatiasOrlando&hide=contribs&show_icons=true&count_private=true&theme=radical" style="width: 385px;"/>
-  </a>
-</div>
-  <div style="margin-left: 20px;">
-    <a href="https://github.com/MatiasOrlando">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasOrlando&layout=compact"/>
-    </a>
-  </div>
-</div>
-
 
 
