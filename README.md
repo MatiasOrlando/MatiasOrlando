@@ -82,7 +82,7 @@
 <br>
 
 <a href="https://github.com/MatiasOrlando" style="margin-right:385px">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MatiasOrlando&hide=contribs&show_icons=true&count_private=true&theme=radical"  style="width:400px;height:160px"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MatiasOrlando&hide=contribs&show_icons=true&count_private=true&theme=radical"  style="width:400px"/>
 </a>
 <a href="https://github.com/MatiasOrlando">
   <img  align="right"  style="width:400px;height:160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasOrlando&layout=compact" />
