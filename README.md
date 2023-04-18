@@ -41,7 +41,9 @@
 ### Front-end  💻
 <div style="padding:25px"> 
 <img src="https://user-images.githubusercontent.com/94872647/227661380-d006501a-6542-4ace-b960-af73447782c9.png" style="height:40px;width:40px"/> 
+  &nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/94872647/227661750-38140331-323f-463f-aa24-58a3288db850.png" style="height:40px;width:40px" />
+  &nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/94872647/227662273-687c6085-4e08-4839-a51d-255bf5e68d2d.png" style="height:40px;width:40px" />
 <img src="https://user-images.githubusercontent.com/94872647/227739570-bdd55092-6478-4a90-912e-63e46874c693.png" style="height:40px;width:40px" />
 <img src="https://user-images.githubusercontent.com/94872647/227739604-800e4715-005f-4fea-a079-27f039f81ed4.png" style="height:40px;width:40px" />
