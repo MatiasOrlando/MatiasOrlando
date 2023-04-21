@@ -60,6 +60,8 @@
   &nbsp;
 <img src="https://user-images.githubusercontent.com/94872647/227741191-7a731bf0-1ef7-4773-a316-f22fad2ce442.png" style="height:40px;width:40px" />
   &nbsp;
+<img src="https://cdn.iconscout.com/icon/free/png-256/sequelize-2-1175003.png" style="height:40px;width:40px" />
+  &nbsp;
 </div>
 
 
