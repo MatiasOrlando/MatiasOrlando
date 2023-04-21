@@ -60,8 +60,6 @@
   &nbsp;
 <img src="https://user-images.githubusercontent.com/94872647/227741191-7a731bf0-1ef7-4773-a316-f22fad2ce442.png" style="height:40px;width:40px" />
   &nbsp;
-<img src="https://cdn.iconscout.com/icon/free/png-256/sequelize-2-1175003.png" style="height:40px;width:40px" />
-  &nbsp;
 </div>
 
 
@@ -78,6 +76,8 @@
 <img src="https://user-images.githubusercontent.com/94872647/227740130-e2b772f1-f1af-47b8-86eb-de3bf9cb8128.png" style="height:40px;width:40px" />
   &nbsp;
 <img src="https://user-images.githubusercontent.com/94872647/227740282-331ce102-7c82-4a1a-9c71-84f8701ce863.png" style="height:40px;width:40px" />
+  &nbsp;
+  <img src="https://cdn.iconscout.com/icon/free/png-256/sequelize-2-1175003.png" style="height:40px;width:40px" />
   &nbsp;
 </div>
 
