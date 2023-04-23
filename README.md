@@ -15,7 +15,7 @@
 
 <div align="center">
 
-  #### <a href="https://github.com/stars/MatiasOrlando/lists/projects">MY PROJECTS ⭐ </a>
+  ### <a href="https://github.com/stars/MatiasOrlando/lists/projects">MY PROJECTS ⭐ </a>
 
 </div>
 
