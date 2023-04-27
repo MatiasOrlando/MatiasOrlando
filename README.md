@@ -26,7 +26,7 @@
 
 - 🔭 I’m currently working on an online appointments booking app.
 
-- 🌱 I’m currently learning Typescript and Next JS.
+- 🌱 I’m currently learning Typescript.
 
 - 🕵 I’m looking to collaborate on new projects that have a real impact on people's lives.
 
