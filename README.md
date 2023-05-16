@@ -86,7 +86,7 @@
   &nbsp;
 <img src="https://user-images.githubusercontent.com/94872647/227740282-331ce102-7c82-4a1a-9c71-84f8701ce863.png" style="height:40px;width:40px" />
   &nbsp;
-  <img src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4" style="height:40px;width:40px" />
+
   
   
 </div>
@@ -106,6 +106,11 @@
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_swagger_icon_130134.png" style="height:40px;width:40px" />
    &nbsp;
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" style="height:38px;width:35px" />
+   &nbsp;
+    <img src="https://docs.cypress.io/img/logo/cypress-logo-circle-dark.png" style="height:40px;width:40px" />
+  
+  
+  
 </div>
 
 </div>
