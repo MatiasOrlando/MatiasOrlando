@@ -15,7 +15,7 @@
 
 <div align="center">
 
-  ### <a href="https://portfolio-matiaso2194.vercel.app/">PORTFOLIO 🚀 </a> &nbsp; ### <a href="https://github.com/stars/MatiasOrlando/lists/projects">MY PROJECTS ⭐ </a>
+  ### <a href="https://portfolio-matiaso2194.vercel.app/">PORTFOLIO 🚀 </a> &nbsp; &nbsp;  <a href="https://github.com/stars/MatiasOrlando/lists/projects">MY PROJECTS ⭐ </a>
 
 </div> 
 
