@@ -26,10 +26,6 @@
 
 </div> 
 
-**<div align="center"> ### [MY PROJECTS ⭐](https://github.com/stars/MatiasOrlando/lists/projects) </div> <div align="center"> ### [PORTFOLIO 🚀](https://portfolio-matiaso2194.vercel.app/) </div>**
-
-
-
 <br>
 
 
