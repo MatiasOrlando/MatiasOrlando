@@ -109,7 +109,7 @@
    &nbsp;
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" style="height:38px;width:35px" />
    &nbsp;
-    <img src="https://static-00.iconduck.com/assets.00/cypress-icon-512x512-zi8589rq.png" style="height:40px;width:40px" />
+    <img src="https://www.opencodez.com/wp-content/uploads/2019/12/cypress-logo.png" style="height:40px;width:40px" />
   
   
   
