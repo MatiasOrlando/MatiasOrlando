@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### Full Stack Developer based in Amsterdam 🇦🇷 🇳🇱
+### Full Stack Javascript Developer
 
 </div>
 
