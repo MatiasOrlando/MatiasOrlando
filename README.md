@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### Full Stack Javascript Developer
+### FULL STACK DEVELOPER
 
 </div>
 
