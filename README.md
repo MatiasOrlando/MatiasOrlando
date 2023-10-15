@@ -26,7 +26,7 @@
 
 
 
-- 🔭 I’m currently working on an online chat app.
+- 🔭 I’m currently working on an online live chat application.
 
 - 🌱 I’m currently learning Typescript and React Native.
 
