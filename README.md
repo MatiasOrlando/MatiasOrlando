@@ -28,7 +28,7 @@
 
 - 🔭 I’m currently working on an online live chat application.
 
-- 🌱 I’m currently learning Typescript and React Native.
+- 🌱 I’m currently learning React Native.
 
 - 🕵 I’m looking to collaborate on new projects that have a real impact on people's lives.
 
