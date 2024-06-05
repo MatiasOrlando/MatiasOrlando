@@ -6,7 +6,7 @@
 
 
 
-<div align="center">
+<div align="center" style="padding-bottom:5px">
 
 ### FULL STACK DEVELOPER
 
