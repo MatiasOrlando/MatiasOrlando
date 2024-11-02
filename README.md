@@ -49,8 +49,7 @@
 <div style="padding:25px"> 
 <img src="https://user-images.githubusercontent.com/94872647/227661380-d006501a-6542-4ace-b960-af73447782c9.png" style="height:40px;width:40px"/> 
   &nbsp;
-<img src="![image](https://github.com/user-attachments/assets/3f65562c-f50a-47e4-9211-9d0add296943)
-" style="height:40px;width:40px"/> 
+<img src="https://img.icons8.com/?size=512&id=uJM6fQYqDaZK&format=png" style="height:40px;width:40px"/> 
   &nbsp;
 <img src="https://user-images.githubusercontent.com/94872647/227661750-38140331-323f-463f-aa24-58a3288db850.png" style="height:40px;width:40px" />
   &nbsp;
