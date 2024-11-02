@@ -113,7 +113,7 @@
  
  <img src="https://www.cdnlogo.com/logos/e/72/expo-go-app.svg" style="height:38px;width:55px" />
      
- <img src="https://dwglogo.com/wp-content/uploads/2018/03/SQLite_logo.png" style="height:40px;width:40px" />
+ <img src="https://dwglogo.com/wp-content/uploads/2018/03/SQLite_logo.png" style="height:40px;width:55px" />
      &nbsp;
 
 </div>
