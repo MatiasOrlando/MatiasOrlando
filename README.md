@@ -51,7 +51,7 @@
   &nbsp;
 <img src="https://user-images.githubusercontent.com/94872647/227661750-38140331-323f-463f-aa24-58a3288db850.png" style="height:40px;width:40px" />
   &nbsp;
-<img src="https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png" style="height:40px;width:40px" />
+<img src="https://lucide.dev/framework-logos/react-native.svg" style="height:40px;width:40px" />
   &nbsp;
 <img src="https://user-images.githubusercontent.com/94872647/227662273-687c6085-4e08-4839-a51d-255bf5e68d2d.png" style="height:40px;width:40px" />
   &nbsp;
