@@ -51,7 +51,7 @@
   &nbsp;
 <img src="https://user-images.githubusercontent.com/94872647/227661750-38140331-323f-463f-aa24-58a3288db850.png" style="height:40px;width:40px" />
   &nbsp;
-<img src="https://user-images.githubusercontent.com/94872647/227741191-7a731bf0-1ef7-4773-a316-f22fad2ce442.png" style="height:40px;width:40px" />
+<img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" style="height:40px;width:40px" />
   &nbsp;
 <img src="https://user-images.githubusercontent.com/94872647/227662273-687c6085-4e08-4839-a51d-255bf5e68d2d.png" style="height:40px;width:40px" />
   &nbsp;
