@@ -55,7 +55,7 @@
   &nbsp;
 <img src="https://user-images.githubusercontent.com/94872647/227662273-687c6085-4e08-4839-a51d-255bf5e68d2d.png" style="height:40px;width:40px" />
   &nbsp;
-  <img src="https://www.element8.sa/_next/image?url=%2Fimages%2Fnext-banner-01.png&w=1920&q=75&dpl=dpl_GcXERnQ8zMP1Py5u1a7kSp2yb16r" style="height:45px;width:55px" />
+  <img src="https://www.element8.sa/_next/image?url=%2Fimages%2Fnext-banner-01.png&w=1920&q=75&dpl=dpl_GcXERnQ8zMP1Py5u1a7kSp2yb16r" style="height:45px;width:50px" />
   &nbsp;
 <img src="https://user-images.githubusercontent.com/94872647/227739570-bdd55092-6478-4a90-912e-63e46874c693.png" style="height:40px;width:40px" />
   &nbsp;
