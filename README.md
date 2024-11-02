@@ -49,13 +49,15 @@
 <div style="padding:25px"> 
 <img src="https://user-images.githubusercontent.com/94872647/227661380-d006501a-6542-4ace-b960-af73447782c9.png" style="height:40px;width:40px"/> 
   &nbsp;
+<img src="https://e7.pngegg.com/pngimages/616/528/png-clipart-angularjs-typescript-javascript-vue-js-others-blue-angle.png" style="height:40px;width:40px"/> 
+  &nbsp;
 <img src="https://user-images.githubusercontent.com/94872647/227661750-38140331-323f-463f-aa24-58a3288db850.png" style="height:40px;width:40px" />
   &nbsp;
 <img src="https://lucide.dev/framework-logos/react-native.svg" style="height:40px;width:40px" />
   &nbsp;
 <img src="https://user-images.githubusercontent.com/94872647/227662273-687c6085-4e08-4839-a51d-255bf5e68d2d.png" style="height:40px;width:40px" />
   &nbsp;
-  <img src="https://camo.githubusercontent.com/759549c85abca5ee88ff92960ba8968d343efd76cfc219f99412fd6b0b398f1d/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f737461727475702d6772696e642f696d6167652f75706c6f61642f635f66696c6c2c6470725f322e302c665f6175746f2c675f63656e7465722c715f6175746f3a676f6f642f76312f6763732f706c6174666f726d2d646174612d6473632f6576656e74732f6e6578746a732d626f696c6572706c6174652d6c6f676f2e706e67" style="height:40px;width:40px" />
+<img src="https://camo.githubusercontent.com/759549c85abca5ee88ff92960ba8968d343efd76cfc219f99412fd6b0b398f1d/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f737461727475702d6772696e642f696d6167652f75706c6f61642f635f66696c6c2c6470725f322e302c665f6175746f2c675f63656e7465722c715f6175746f3a676f6f642f76312f6763732f706c6174666f726d2d646174612d6473632f6576656e74732f6e6578746a732d626f696c6572706c6174652d6c6f676f2e706e67" style="height:40px;width:40px" />
   &nbsp;
 <img src="https://user-images.githubusercontent.com/94872647/227739570-bdd55092-6478-4a90-912e-63e46874c693.png" style="height:40px;width:40px" />
   &nbsp;
